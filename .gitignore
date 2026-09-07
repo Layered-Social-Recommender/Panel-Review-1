@@ -1,0 +1,12 @@
+# Epinions raw dataset files
+Datasets/epinions/raw/*.txt
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment files
+.env
